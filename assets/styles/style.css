@@ -21,6 +21,7 @@ body {
   box-sizing: border-box;
   background-color: #fff;
   overflow: auto;
+  box-shadow: 0 0 0.3rem 0.3rem rgba(204, 204, 204, 0.5);
 }
 
 .left-bar .avatar {
